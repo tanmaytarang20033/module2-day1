@@ -1,0 +1,42 @@
+h2{
+    color:blue;
+    background-color: yellowgreen;
+    text-align:right;
+}
+
+#custom-header{
+    color: black;
+}
+
+.p3{
+    color:blue;
+    background-color: brown;
+
+}
+
+.text-prop{
+    font-size: 30px;
+    font-family:'Times New Roman', Times,serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 0px 2px 10px;
+
+
+}
+
+.block{
+    background-color: black;
+    color: grey;
+    width: 50%;
+    height: 200px;
+    margin:50%;
+    height:200px;
+    margin-right:10%;
+    padding-left:5%;
+    padding-top:5%;
+    border:2px solid red;
+    border-radius:10px;
+    border-top-left-radius:30px;
+}
